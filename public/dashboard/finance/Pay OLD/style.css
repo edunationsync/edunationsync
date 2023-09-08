@@ -1,0 +1,36 @@
+.paymentForm{
+	background-color: green;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	width: 600px;
+	color: yellow;
+}
+
+.paymentForm input[type=text], input[type=email]{
+	background-color: black;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border-radius: 6px;
+	margin: 10px 10px 10px 10px;
+}
+
+.paymentForm button{
+
+	background-color: black;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	width: 100px;
+	border: 3px groove black;
+}
+
+.paymentForm button:hover{
+	background-color: yellow;
+	color: black;
+	transition: all 1.3s ease;
+}
+.payBtn{
+	background-color: green;
+	color:yellow;
+	padding: 5px 5px 5px 5px;
+}
